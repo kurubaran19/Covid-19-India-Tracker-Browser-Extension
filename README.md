@@ -14,10 +14,10 @@
     <th style="border: 1px solid #dddddd; text-align: center; padding: 8px;">Screenshot 4</th>
   </tr>
   <tr>
-  	<td style="border: 1px solid #dddddd; text-align: center; padding: 8px;"><img src="https://github.com/kurubaran18/Assets/blob/main/Covid19-Tracker-BrowserExtension/Screenshots/screenshot-1.png?raw=true" style="float: left;" width=220px height=400px /></td>
-    <td style="border: 1px solid #dddddd; text-align: center; padding: 8px;"><img src="https://github.com/kurubaran18/Assets/blob/main/Covid19-Tracker-BrowserExtension/Screenshots/screenshot-2.png?raw=true" style="float: left;" width=220px height=400px /></td>
-    <td style="border: 1px solid #dddddd; text-align: center; padding: 8px;"><img src="https://github.com/kurubaran18/Assets/blob/main/Covid19-Tracker-BrowserExtension/Screenshots/screenshot-3.png?raw=true" style="float: left;" width=220px height=400px /></td>
-    <td style="border: 1px solid #dddddd; text-align: center; padding: 8px;"><img src="https://github.com/kurubaran18/Assets/blob/main/Covid19-Tracker-BrowserExtension/Screenshots/screenshot-4.png?raw=true" style="float: left;" width=220px height=400px /></td>
+  	<td style="border: 1px solid #dddddd; text-align: center; padding: 8px;"><img src="https://github.com/kurubaran19/Project-Assets/blob/main/Covid-19-India-Tracker-Browser-Extension/Screenshots/Screenshot-1.png?raw=true" style="float: left;" width=220px height=400px /></td>
+    <td style="border: 1px solid #dddddd; text-align: center; padding: 8px;"><img src="https://github.com/kurubaran19/Project-Assets/blob/main/Covid-19-India-Tracker-Browser-Extension/Screenshots/Screenshot-2.png?raw=true" style="float: left;" width=220px height=400px /></td>
+    <td style="border: 1px solid #dddddd; text-align: center; padding: 8px;"><img src="https://github.com/kurubaran19/Project-Assets/blob/main/Covid-19-India-Tracker-Browser-Extension/Screenshots/Screenshot-3.png?raw=true" style="float: left;" width=220px height=400px /></td>
+    <td style="border: 1px solid #dddddd; text-align: center; padding: 8px;"><img src="https://github.com/kurubaran19/Project-Assets/blob/main/Covid-19-India-Tracker-Browser-Extension/Screenshots/Screenshot-4.png?raw=true" style="float: left;" width=220px height=400px /></td>
   </tr>
 </table>
 
