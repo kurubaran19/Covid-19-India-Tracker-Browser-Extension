@@ -24,7 +24,7 @@
 # Note
 This Extension is not published on chrome web store.
 
-# Steps to Install on Chrome & Opera Web Browser
+# Steps to Install on Chrome
 
 1. Clone and Download the Project ( COVID-19-India-Chrome-Extension ).<br>
 2. Extract COVID-19-India-Chrome-Extension-Master.<br>
